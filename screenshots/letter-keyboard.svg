@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="680" viewBox="0 0 360 680" role="img" aria-labelledby="title description">
+  <title id="title">Akshar letter keyboard preview</title>
+  <desc id="description">Illustration of Akshar's letter page with alphabet rows of 9, 8, and 6 keys, Y after M, Shift at the start of the third row, and comma after Z, plus number-page, Ctrl, period, space, backspace, and enter controls.</desc>
+  <rect width="360" height="680" rx="34" fill="#e4e1d8"/>
+  <rect x="14" y="12" width="332" height="656" rx="29" fill="#ffffff"/>
+  <rect x="145" y="21" width="70" height="7" rx="4" fill="#d1cec5"/>
+  <g fill="#20251f" font-family="Arial, sans-serif">
+    <text x="36" y="53" font-size="12" font-weight="700">9:41</text>
+    <text x="286" y="53" font-size="12">●  ▰</text>
+    <text x="32" y="106" font-size="14" font-weight="700">Message</text>
+    <text x="32" y="164" font-size="21">Type with Akshar</text>
+  </g>
+  <path d="M32 187H328" stroke="#e6e2d8"/>
+  <rect x="14" y="264" width="332" height="205" fill="#f4f1e9"/>
+  <g fill="#fffefa" stroke="#e6e2d8">
+    <rect x="38" y="294" width="28" height="36" rx="6"/><rect x="70" y="294" width="28" height="36" rx="6"/><rect x="102" y="294" width="28" height="36" rx="6"/><rect x="134" y="294" width="28" height="36" rx="6"/><rect x="166" y="294" width="28" height="36" rx="6"/><rect x="198" y="294" width="28" height="36" rx="6"/><rect x="230" y="294" width="28" height="36" rx="6"/><rect x="262" y="294" width="28" height="36" rx="6"/><rect x="294" y="294" width="28" height="36" rx="6"/>
+    <rect x="54" y="336" width="28" height="36" rx="6"/><rect x="86" y="336" width="28" height="36" rx="6"/><rect x="118" y="336" width="28" height="36" rx="6"/><rect x="150" y="336" width="28" height="36" rx="6"/><rect x="182" y="336" width="28" height="36" rx="6"/><rect x="214" y="336" width="28" height="36" rx="6"/><rect x="246" y="336" width="28" height="36" rx="6"/><rect x="278" y="336" width="28" height="36" rx="6"/>
+    <rect x="54" y="378" width="28" height="36" rx="6" fill="#315c48" stroke="#315c48"/><rect x="86" y="378" width="28" height="36" rx="6"/><rect x="118" y="378" width="28" height="36" rx="6"/><rect x="150" y="378" width="28" height="36" rx="6"/><rect x="182" y="378" width="28" height="36" rx="6"/><rect x="214" y="378" width="28" height="36" rx="6"/><rect x="246" y="378" width="28" height="36" rx="6"/><rect x="278" y="378" width="28" height="36" rx="6"/>
+    <rect x="38" y="420" width="37.7" height="36" rx="8"/><rect x="79.7" y="420" width="37.7" height="36" rx="8"/><rect x="121.4" y="420" width="37.7" height="36" rx="8"/><rect x="163.1" y="420" width="75.4" height="36" rx="8"/><rect x="242.5" y="420" width="37.7" height="36" rx="8"/><rect x="284.2" y="420" width="37.7" height="36" rx="8"/>
+  </g>
+  <g font-family="Arial, sans-serif" text-anchor="middle" fill="#234535" font-size="12" font-weight="700">
+    <text x="52" y="317">A</text><text x="84" y="317">I</text><text x="116" y="317">U</text><text x="148" y="317">E</text><text x="180" y="317">O</text><text x="212" y="317">K</text><text x="244" y="317">G</text><text x="276" y="317">C</text><text x="308" y="317">J</text>
+    <text x="68" y="359">T</text><text x="100" y="359">D</text><text x="132" y="359">N</text><text x="164" y="359">P</text><text x="196" y="359">F</text><text x="228" y="359">B</text><text x="260" y="359">M</text><text x="292" y="359">Y</text>
+    <text x="68" y="401" fill="#ffffff">⇧</text><text x="100" y="401">R</text><text x="132" y="401">L</text><text x="164" y="401">V</text><text x="196" y="401">S</text><text x="228" y="401">H</text><text x="260" y="401">Z</text><text x="292" y="401">,</text>
+  </g>
+  <g font-family="Arial, sans-serif" text-anchor="middle" fill="#62675d" font-size="13" font-weight="700">
+    <text x="56.85" y="441">123</text><text x="98.55" y="441" font-size="11">Ctrl</text><text x="140.25" y="441">.</text><text x="200.8" y="441" font-size="11" font-weight="500">space</text><text x="261.35" y="441">⌫</text><text x="303.05" y="441">↵</text>
+  </g>
+  <rect x="147" y="647" width="66" height="4" rx="2" fill="#20251f" opacity=".65"/>
+</svg>
