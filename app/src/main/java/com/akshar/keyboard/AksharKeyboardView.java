@@ -66,7 +66,7 @@ final class AksharKeyboardView extends LinearLayout {
             addView(symbols, rowParams(42));
 
             LinearLayout numbers = row();
-            for (String number : new String[] {"1", "2", "3", "4", "5", "6", "7", "8", "9", "0"}) {
+            for (String number : new String[] {"1", "2", "3", "\u096A", "\u096B", "6", "7", "8", "9", "0"}) {
                 addKey(numbers, number, null, 1f, () -> typeCharacter(number));
             }
             addView(numbers, rowParams(42));
